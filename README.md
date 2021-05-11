@@ -20,11 +20,28 @@ The PictoBERT is capable of predicting pictograms in different contexts. And its
 
 ## Software requirements
 
-Pytorch
-Pytorch Lightning
-Tokenizers
-Transformers
-Gensim
-Pandas
-Keras
-NLTK
+* [Pytorch](https://pytorch.org/)
+* [Pytorch Lightning](https://www.pytorchlightning.ai/)
+* [Tokenizers](https://github.com/huggingface/tokenizers)
+* [Transformers](https://huggingface.co/transformers/)
+* [Gensim](https://radimrehurek.com/gensim/auto_examples/index.html)
+* [Pandas](https://pandas.pydata.org/)
+* [Keras](https://keras.io/)
+* [PySupWSD](https://github.com/rodriguesfas/PySupWSDPocket)
+* [NLTK](https://keras.io/)
+
+## Execution
+
+Clone the repository in your machine and open the notebooks.
+```
+git clone https://github.com/jayralencar/pictoBERT.git
+```
+Or open the notebooks in Google Colab by clicking  in the anchors bellow.
+
+The process for training PictoBERT is based on three main steps:
+1. [Create SemCHILDES](https://colab.research.google.com/github/jayralencar/pictoBERT/blob/main/SemCHILDES.ipynb)
+2. [Train Tokenizer, and Encode and split dataset](https://colab.research.google.com/github/jayralencar/pictoBERT/blob/main/Train_Tokenizer_and_Prepare_Dataset.ipynb)
+3. [Create model](https://colab.research.google.com/github/jayralencar/pictoBERT/blob/main/Create_Models.ipynb)
+4. [Train PictoBERT](https://colab.research.google.com/github/jayralencar/pictoBERT/blob/main/Training_PictoBERT.ipynb)
+
+The notebooks execution must follow this sequence, but downloadable versions of the resources are available in each step..
