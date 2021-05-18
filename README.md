@@ -41,10 +41,11 @@ git clone https://github.com/jayralencar/pictoBERT.git
 ```
 Or open the notebooks in Google Colab by clicking  in the anchors bellow.
 
-The process for training PictoBERT is based on three main steps:
+The process for training PictoBERT is based on five main steps:
 1. [Create SemCHILDES](https://colab.research.google.com/github/jayralencar/pictoBERT/blob/main/SemCHILDES.ipynb)
 2. [Train Tokenizer, and Encode and split dataset](https://colab.research.google.com/github/jayralencar/pictoBERT/blob/main/Train_Tokenizer_and_Prepare_Dataset.ipynb)
 3. [Create model](https://colab.research.google.com/github/jayralencar/pictoBERT/blob/main/Create_Models.ipynb)
 4. [Train and test PictoBERT](https://colab.research.google.com/github/jayralencar/pictoBERT/blob/main/Training_PictoBERT.ipynb)
+5. [Train and test n-gram models](https://colab.research.google.com/github/jayralencar/pictoBERT/blob/main/N_gram_models.ipynb)
 
 The notebooks execution must follow this sequence, but downloadable versions of the resources are available in each step..
