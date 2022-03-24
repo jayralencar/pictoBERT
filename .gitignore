@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data/
+checkpoints/
+contextual/
+corpora/
+dicts/
+logs/
+models/
+only_texts/
+pysupwsdpocket_models
