@@ -2,7 +2,7 @@
 
 # PictoBERT: Transformers for Next Pictogram Prediction
 
-Original code implementation of the paper "PictoBERT: Transformers for Next Pictogram Prediction".
+Original code implementation of the paper "[PictoBERT: Transformers for Next Pictogram Prediction](https://www.sciencedirect.com/science/article/abs/pii/S095741742200611X)".
 
 Pictogram is the term used by the Augmentative and Alternative Communication (AAC) community for an image with a label that represents a place, person, action, object and animal. AAC systems like the shown below allow message construction and communication by arranging pictograms in sequence.
 
@@ -270,3 +270,20 @@ The evaluation scripts, as well as the results, are in the following notebook.
     <a target="_blank" href="https://github.com/jayralencar/pictoBERT/blob/main/evaluation_codeocean.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
   </td>
 </table>
+
+## Cite
+
+```
+@article{PEREIRA2022117231,
+	title = {Picto{BERT}: Transformers for next pictogram prediction},
+	journal = {Expert Systems with Applications},
+	volume = {202},
+	pages = {117231},
+	year = {2022},
+	issn = {0957-4174},
+	doi = {https://doi.org/10.1016/j.eswa.2022.117231},
+	url = {https://www.sciencedirect.com/science/article/pii/S095741742200611X},
+	author = {Jayr Alencar Pereira and David Macêdo and Cleber Zanchettin and Adriano Lorena Inácio {de Oliveira} and Robson do Nascimento Fidalgo},
+	keywords = {Augmentative and alternative communication, Language modeling, Pictogram prediction},
+}
+```
