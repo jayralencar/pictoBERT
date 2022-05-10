@@ -270,6 +270,7 @@ The evaluation scripts, as well as the results, are in the following notebook.
     <a target="_blank" href="https://github.com/jayralencar/pictoBERT/blob/main/evaluation_codeocean.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
   </td>
 </table>
+<br><br><br>
 
 ## Cite
 
